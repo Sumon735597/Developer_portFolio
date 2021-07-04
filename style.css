@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 45px;
+}
+
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.haf{
+    width: 50%;
+    padding-left: 3%;
+}
+.haf img{
+    width: 70%;
+}
+.Link-Button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 50px;
+    color: whitesmoke;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
